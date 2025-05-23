@@ -96,7 +96,7 @@ Hi! I’m **Sibahle Shange**, a passionate and curious **Software Engineering st
 ## 📤 CV Submission
 
 ### 📎 Evidence
-📂 *[CV Submitted]*: `C:\Users\oluya\OneDrive\Desktop\CV_Resume`
+📂 https://github.com/SibahleShange/SibahleShange/blob/main/Sibahle_Shange_Resume.pdf
 
 ---
 
